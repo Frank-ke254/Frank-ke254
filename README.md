@@ -7,11 +7,11 @@
 
   <!-- Badges (edit or remove any) -->
   <p>
-    <a href="mailto:{{ kahiufrancis604@gmail.com }}"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-    <a href="{{ (https://www.linkedin.com/in/francis-kahiu-74657924b/) }}"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-    <a href="{{ https://sites.google.com/view/kariuki-francis?usp=sharing }}"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?logo=vercel"></a>
-    <a href="{{ https://x.com/home }}"><img alt="X/Twitter" src="https://img.shields.io/badge/X_(Twitter)-Follow-black?logo=x"></a>
-    <img alt="Visitors" src="https://komarev.com/ghpvc/?username={{ Frank-ke254 }}&color=blueviolet&style=flat">
+    <a href="mailto: kahiufrancis604@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
+    <a href="https://www.linkedin.com/in/francis-kahiu-74657924b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+    <a href="https://sites.google.com/view/kariuki-francis?usp=sharing"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?logo=vercel"></a>
+    <a href="https://x.com/home"><img alt="X/Twitter" src="https://img.shields.io/badge/X_(Twitter)-Follow-black?logo=x"></a>
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username= Frank-ke254 &color=blueviolet&style=flat">
   </p>
 
   <!-- One-liner value proposition -->
@@ -175,10 +175,10 @@
 <!-- ====== CONTACT ====== -->
 <h2>📫 Let’s Connect</h2>
 <p>
-  <a href="mailto:{{ kahiufrancis604@gmail.com }}">Email</a> •
-  <a href="{{ https://www.linkedin.com/in/francis-kahiu-74657924b/ }}">LinkedIn</a> •
-  <a href="{{ https://sites.google.com/view/kariuki-francis?usp=sharing }}">Portfolio</a> •
-  <a href="{{ https://x.com/home }}">X/Twitter</a>
+  <a href="mailto: kahiufrancis604@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/francis-kahiu-74657924b/">LinkedIn</a> •
+  <a href="https://sites.google.com/view/kariuki-francis?usp=sharing">Portfolio</a> •
+  <a href="https://x.com/home">X/Twitter</a>
 </p>
 
 <!-- ====== FOOTER / CTA ====== -->
