@@ -2,7 +2,7 @@
 
 <!-- HEADER / HERO -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%" alt="Banner GIF" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="50%" alt="Banner GIF" />
 
   <h1>Hi, I’m <span title="Your Name">Kariuki Francis Kahiu</span> 👋</h1>
   <p>
